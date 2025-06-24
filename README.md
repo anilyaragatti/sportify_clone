@@ -1,2 +1,2 @@
-# sportify_clone
+# spotify_clone
 this is my sportify HTML CSS project
